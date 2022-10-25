@@ -1,5 +1,5 @@
 // What do we expect this program to print?
-const a = 1;
+let a = 1;
 
 {
   let b = 2;
